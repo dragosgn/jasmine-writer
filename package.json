@@ -4,9 +4,11 @@
   "private": true,
   "dependencies": {
     "react": "^15.6.1",
+    "react-apollo": "^1.4.16",
     "react-dom": "^15.6.1",
     "react-redux": "^5.0.6",
     "recompose": "^0.25.1",
+    "redux-first-router": "0.0.16-next",
     "styled-components": "^2.1.2"
   },
   "devDependencies": {
